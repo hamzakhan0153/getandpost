@@ -1,6 +1,6 @@
 .form {
     padding: 20px 50px 40px;
-    border: 1px solid rgb(255, 18, 144);
+    border: 1px solid rgb(64, 11, 150);
     margin: 20px;
     text-align: center;
   }
@@ -51,24 +51,24 @@
     outline: none;
     font-weight: bold;
     cursor: pointer;
-    background-color: rgb(95, 91, 91);
-    color: rgb(110, 43, 43);
+    background-color: rgb(3, 83, 20);
+    color: white;
     transition: all 0.2s;
   }
   
   .form button:hover {
     transform: translateY(-5px);
-    box-shadow: 5px 5px 10px rgba(214, 37, 37, 0.479);
+    box-shadow: 5px 5px 10px rgba(224, 3, 3, 0.479);
   }
   
   .form button:active {
     transform: translateY(-3px);
-    box-shadow: 3px 3px 5px rgba(233, 56, 56, 0.479);
+    box-shadow: 3px 3px 5px rgba(79, 42, 122, 0.479);
   }
   
   .table {
     padding: 20px;
-    border: 1px solid rgb(8, 181, 224);
+    border: 1px solid rgb(206, 8, 8);
     width: 100%;
     margin-top: 20px;
   }
@@ -76,6 +76,5 @@
   .table th,
   .table td {
     padding: 10px;
-    border: 1px solid rgb(19, 197, 87);
+    border: 1px solid rgb(241, 226, 7);
   }
-  
